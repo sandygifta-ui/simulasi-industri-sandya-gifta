@@ -1,80 +1,55 @@
-\# 👋 Halo, Saya Sandya Gifta Ulimaz Sofiamagaski
+# 👋 Halo, Saya Sandya Gifta Ulimaz Sofiamagaski
 
+Junior Data Analyst | Program Simulasi Angkatan 2 PT Edusoft Center Teknologi
 
+---
 
-Junior Data Analyst | Program Simulasi Angkatan 2 PT Edusoft center Teknologi
+## 📊 Tentang Proyek Ini
 
+Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari Data Analyst, mulai dari konsep dasar hingga menyelesaikan proyek analisis data end-to-end.
 
+**Dataset:** [Nama Dataset](https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan)
 
-\## 📊 Tentang Proyek Ini
+**Topik Bisnis:** Analisis Penjualan E-commerce 2024
 
+**Tools:** Python, SQL, Looker Studio, Git
 
+---
 
-Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari data analyst dari dasar hingga proyek end-to-end.
+## 🗂 Struktur Repository
 
+| Folder | Isi |
+|--------|-----|
+| `data/` | Dataset mentah dan hasil pengolahan |
+| `notebooks/` | Jupyter Notebook untuk setiap tahap analisis |
+| `sql/` | Query SQL untuk analisis bisnis |
+| `reports/` | Laporan analisis dan presentasi |
+| `dashboard/` | Screenshot dan tautan dashboard |
+| `docs/` | Dokumentasi dan catatan sprint |
 
+---
 
-\*\*Dataset:\*\* \[Nama Dataset] — \[link sumber, contoh: Kaggle] \*\*Topik Bisnis:\*\* \[misal: Analisis Penjualan E-commerce 2024] \*\*Tools:\*\* Python, SQL, Looker Studio, Git 
+## 📥 Cara Download Dataset
 
+1. Buka dataset di Kaggle: https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
+2. Download file **dataset_penjualan.csv**.
+3. Simpan file ke folder `data/raw/`.
 
+---
 
-\## 🗂 Struktur Repository 
+## 📈 Progress Mingguan
 
+- [x] W1–2: Setup & Data Brief
+- [ ] W3–4: Data Cleaning & SQL
+- [ ] W5–6: Exploratory Data Analysis (EDA)
+- [ ] W7–8: Business Question Analysis
+- [ ] W9–10: Dashboard & Storytelling
+- [ ] W11–12: Final Project
 
+---
 
-| Folder | Isi | 
+## 🔗 Links
 
-| ------ | --- | 
-
-| notebooks/ | Jupyter notebooks per tahap analisis | 
-
-| sql/ | Query SQL untuk analisis bisnis | 
-
-| reports/ | Laporan analisis dan slide | 
-
-| dashboard/ | Screenshot dan link dashboard | 
-
-| docs/ | Dokumentasi dan catatan sprint | 
-
-
-
-\## 📥 Cara Download Dataset 
-
-
-
-1\. Buka link: \[https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan] 
-
-2\. Download file: dataset\_penjualan.csv 
-
-3\. Simpan ke folder: data/raw/ 
-
-
-
-\## 📈 Progress Mingguan 
-
-
-
-\- \[x] W1-2: Setup \& Data Brief 
-
-\- \[ ] W3-4: Data Cleaning \& SQL 
-
-\- \[ ] W5-6: Exploratory Data Analysis 
-
-\- \[ ] W7-8: Business Question Analysis 
-
-\- \[ ] W9-10: Dashboard \& Storytelling 
-
-\- \[ ] W11-12: Final Project 
-
-
-
-\## 🔗 Links  
-
-
-
-\- 📊 Dashboard: \[link Looker Studio - diisi W9] 
-
-\- 📝 Blog: \[link Medium/Hashnode - diisi W4] 
-
-\- 🔗 LinkedIn: \[link LinkedIn kamu] 
-
+- 📊 Dashboard: *(akan ditambahkan pada Week 9)*
+- 📝 Blog: *(akan ditambahkan pada Week 4)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/username
