@@ -52,4 +52,4 @@ Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari Da
 
 - 📊 Dashboard: *(akan ditambahkan pada Week 9)*
 - 📝 Blog: *(akan ditambahkan pada Week 4)*
-- 🔗 LinkedIn: https://www.linkedin.com/in/username
+- 🔗 LinkedIn: www.linkedin.com/in/sandya-gifta-376a3240a
