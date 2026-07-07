@@ -1,0 +1,22 @@
+# DATA FILES
+data/
+*.csv
+*.xlsx
+*.xls
+
+# PYTHON
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+
+# OS FILES
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# CREDENTIALS
+*.key
+credentials.json
+token.json
